@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\ConsoleApp1\testBoxingUnboxing\bin\Debug\testBoxingUnboxing.exe.config
+C:\Users\asus\Desktop\ConsoleApp1\testBoxingUnboxing\bin\Debug\testBoxingUnboxing.exe
+C:\Users\asus\Desktop\ConsoleApp1\testBoxingUnboxing\bin\Debug\testBoxingUnboxing.pdb
+C:\Users\asus\Desktop\ConsoleApp1\testBoxingUnboxing\obj\Debug\testBoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ConsoleApp1\testBoxingUnboxing\obj\Debug\testBoxingUnboxing.exe
+C:\Users\asus\Desktop\ConsoleApp1\testBoxingUnboxing\obj\Debug\testBoxingUnboxing.pdb

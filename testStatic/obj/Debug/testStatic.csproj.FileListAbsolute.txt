@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\ConsoleApp1\testStatic\bin\Debug\testStatic.exe.config
+C:\Users\asus\Desktop\ConsoleApp1\testStatic\bin\Debug\testStatic.exe
+C:\Users\asus\Desktop\ConsoleApp1\testStatic\bin\Debug\testStatic.pdb
+C:\Users\asus\Desktop\ConsoleApp1\testStatic\obj\Debug\testStatic.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ConsoleApp1\testStatic\obj\Debug\testStatic.exe
+C:\Users\asus\Desktop\ConsoleApp1\testStatic\obj\Debug\testStatic.pdb

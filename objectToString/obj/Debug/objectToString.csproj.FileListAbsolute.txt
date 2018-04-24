@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\ConsoleApp1\objectToString\bin\Debug\objectToString.exe.config
+C:\Users\asus\Desktop\ConsoleApp1\objectToString\bin\Debug\objectToString.exe
+C:\Users\asus\Desktop\ConsoleApp1\objectToString\bin\Debug\objectToString.pdb
+C:\Users\asus\Desktop\ConsoleApp1\objectToString\obj\Debug\objectToString.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ConsoleApp1\objectToString\obj\Debug\objectToString.exe
+C:\Users\asus\Desktop\ConsoleApp1\objectToString\obj\Debug\objectToString.pdb

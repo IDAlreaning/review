@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\asus\Desktop\ConsoleApp1\Polymorphism\obj\Debug\Polymorphism.pdb

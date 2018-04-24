@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\ConsoleApp1\getSet\bin\Debug\getSet.exe.config
+C:\Users\asus\Desktop\ConsoleApp1\getSet\bin\Debug\getSet.exe
+C:\Users\asus\Desktop\ConsoleApp1\getSet\bin\Debug\getSet.pdb
+C:\Users\asus\Desktop\ConsoleApp1\getSet\obj\Debug\getSet.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ConsoleApp1\getSet\obj\Debug\getSet.exe
+C:\Users\asus\Desktop\ConsoleApp1\getSet\obj\Debug\getSet.pdb
+C:\Users\asus\Desktop\ConsoleApp1\getSet\obj\Debug\getSet.csprojResolveAssemblyReference.cache
