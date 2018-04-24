@@ -1,0 +1,7 @@
+C:\Users\captain\Documents\GitHub\review\testGenerics\bin\Debug\testGenerics.exe.config
+C:\Users\captain\Documents\GitHub\review\testGenerics\bin\Debug\testGenerics.exe
+C:\Users\captain\Documents\GitHub\review\testGenerics\bin\Debug\testGenerics.pdb
+C:\Users\captain\Documents\GitHub\review\testGenerics\obj\Debug\testGenerics.csproj.CoreCompileInputs.cache
+C:\Users\captain\Documents\GitHub\review\testGenerics\obj\Debug\testGenerics.exe
+C:\Users\captain\Documents\GitHub\review\testGenerics\obj\Debug\testGenerics.pdb
+C:\Users\captain\Documents\GitHub\review\testGenerics\obj\Debug\testGenerics.csprojResolveAssemblyReference.cache

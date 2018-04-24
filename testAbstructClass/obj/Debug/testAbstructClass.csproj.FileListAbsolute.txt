@@ -1,0 +1,7 @@
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\bin\Debug\testAbstructClass.exe.config
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\bin\Debug\testAbstructClass.exe
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\bin\Debug\testAbstructClass.pdb
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\obj\Debug\testAbstructClass.csprojResolveAssemblyReference.cache
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\obj\Debug\testAbstructClass.csproj.CoreCompileInputs.cache
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\obj\Debug\testAbstructClass.exe
+C:\Users\captain\Documents\GitHub\review\testAbstructClass\obj\Debug\testAbstructClass.pdb

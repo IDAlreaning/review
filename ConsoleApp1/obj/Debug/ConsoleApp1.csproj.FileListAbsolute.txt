@@ -5,3 +5,10 @@ C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolv
 C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\asus\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\captain\Documents\GitHub\review\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

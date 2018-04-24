@@ -1,0 +1,7 @@
+C:\Users\captain\Documents\GitHub\review\testInterface\bin\Debug\testInterface.exe.config
+C:\Users\captain\Documents\GitHub\review\testInterface\bin\Debug\testInterface.exe
+C:\Users\captain\Documents\GitHub\review\testInterface\bin\Debug\testInterface.pdb
+C:\Users\captain\Documents\GitHub\review\testInterface\obj\Debug\testInterface.csprojResolveAssemblyReference.cache
+C:\Users\captain\Documents\GitHub\review\testInterface\obj\Debug\testInterface.csproj.CoreCompileInputs.cache
+C:\Users\captain\Documents\GitHub\review\testInterface\obj\Debug\testInterface.exe
+C:\Users\captain\Documents\GitHub\review\testInterface\obj\Debug\testInterface.pdb
